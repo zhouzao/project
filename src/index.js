@@ -20,3 +20,4 @@ jQuery.ajax({
 console.log(_);
 console.log("测试gitee---github同步功能")
 console.log("这是一个index.js11111")
+console.log("这是一个index2222.js")
